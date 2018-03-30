@@ -1,0 +1,90 @@
+The Immortal Sun
+
+Relentless Assault (check)
+World at War
+Aggrevated Assault
+Savage Beating
+
+The red one.
+Angel of Sanctions
+As Foretold
+Nest of Scarabs
+Throne of the God-Pharaoh
+Vizier of the Menagerie
+
+Elbrus, the binding blade
+Hibernation Sliver
+
+Cephalid Constable
+
+Rosheen Meanderer
+Vigor
+MirrorPool
+Ob Nixilis
+Thawing Glaciers
+Mikokoro, Center of the Sea
+Shizo, Death's Storehouse
+Shinka, the Bloodsoaked Keep
+Rakka Marr
+Seizan, Perverter of Truth
+
+##############################
+###### Infect ################
+##############################
+Blighted Agent (wtf, unblockable infect?!)
+Blight Mamba (regen)
+Carrion Call (inst., get 2 1/1 infect tokens)
+Core Prowler (art crea, proliferate when dies)
+Corrupted Conscience (you control enchanted creature, it gets infect)
+Festering Wound (get an infection counter on my upkeep, damages them on theirs)
+Hand of the Praetors (infect lord, target player gets poison counter when casting creature with infect)
+Ichor Rats (etb: everyone gets a poison counter)
+Phyrexian Crusader (first strike, pro red/white)
+Phyrexian Hydra (7/7, gets a -1/-1 counter instead of damage)
+Phyrexia Swarmlord (get a 1/1 infect token for each poison counters oppontents have)
+Phyrexian Unlife (you don't lose for having 0 life, all damage is infect when you have 0 life)
+Plague Myr (mana rock)
+Reaper of Sheoldred (when source deals damage to it, source controller gets 1 poison counter)
+Rot wolf (draw a card when a creature dealt damage by it dies)
+Spinebiter (may assign it's damamge as though it weren't blocked)
+Tangle Angler (G to force creature to block it)
+Trigon of Infestation (2T remove charge counter, get a 1/1 infect token. GBT put a charge counter on it)
+Viral Drake (flying, 3B proliferate)
+Viridian Corrupter (Etb: destroy artifact)
+whisspering spectre (sac on combat damage, player discards a card for each poison counter they have)
+Triumph of the Hordes (all creatures get +1/+1, trample and infect)
+Phyresis (enchaned creature has infect)
+Leuitenant  that gives everything +2/+2 and trample
+Green thing that lets you deal damage as though creatures weren't blocked which I totes have.
+Overrun
+Overwhelming stampede (<- don't need to buy)
+
+-1/-1 Shenagians
+Necroskitter
+
+
+Proliferate:
+Contagion Clasp (4T pro)
+Contagion Engine (4T, pro then pro again!)
+Fuel for the Cause (counter, pro)
+Grim Affliction (-1/-1 on a creature, pro)
+Plaguemaw Beast (T sac creature, pro)
+
+Other:
+Corrupted Resolve (counter spell if controller is poisoned)
+
+##############################
+
+The Tabernacle at Pendrell Vale (omg lol fuck no. $1100? Goddamn it Wizards...)
+City of Traitors (lol)
+
+Stoneforge Mystic x 1
+Glimmervoid
+
+pwalkers
+Chandra, Pyrogenius
+Daretti Ingenious Iconoclast
+Kaya, Ghost Assassin
+nahiri the harbinger
+Nissa, Nature's Artisan
+Nissa, Vital Force
