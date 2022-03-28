@@ -1,0 +1,10 @@
+New Certificate details:
+	Common Name: Ian-PCAgain.SDS.local
+	Subject:     CN = Ian-PCAgain.SDS.local
+	Issuer:      CN = Ian-PCAgain.SDS.local
+	Thumbprint:  70:be:2e:3f:99:a8:ea:2a:b0:e4:6c:72:5d:ad:3d:45:49:46:2a:30:05:0b:c3:d3:0e:ef:32:58:5b:33:7b:4c
+
+Old Certificate details:
+	Subject:     CN = Ian-PCAgain.SDS.local
+	Issuer:      CN = Ian-PCAgain.SDS.local
+	Thumbprint:  2b:94:a6:03:19:73:5e:ea:28:e9:1e:5d:eb:69:ad:d0:1a:96:c0:a0:fe:57:c8:d4:88:e5:bb:d5:85:68:95:1f
